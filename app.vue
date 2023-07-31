@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtPage />
+    Welcome corn
   </div>
 </template>
